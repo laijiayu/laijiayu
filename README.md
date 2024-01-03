@@ -1,5 +1,5 @@
-### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,ts,react,nextjs,vite,netlify,vscode,linkedin)](https://skillicons.dev)
+### Hi there 👋 I'm Allison
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,netlify,vscode,linkedin)](https://skillicons.dev)
 <!--
 **laijiayu/laijiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
